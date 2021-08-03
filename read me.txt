@@ -1,0 +1,23 @@
+https://www.twitch.tv/kingnombo
+https://www.youtube.com/channel/UC2yfYTR95uIRx-AHvjTNx8Q
+https://discord.gg/CvfXDDzc
+
+
+This is based on a setup using streamlabs OBS prime with Chatbox widget source.
+
+If you don't use streamlabs, you will need to find a chatbox source that allows you to edit the html and css.
+
+
+Streamlabs.com
+Log into streamlabs using a web browser.
+Navigate to the chat widget.
+(https://streamlabs.com/dashboard#/chatbox)
+
+Scroll down to replace the entire html contents with the entire contents from the 'chatbox-perspective-html.txt' file.
+replace the entire html contents with the entire contents from the 'chatbox-perspective-css.txt' file.
+
+save it.
+test it.
+
+Pop into the discord (above) for more advice.
+~KingNombo
